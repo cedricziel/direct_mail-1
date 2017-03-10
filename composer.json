@@ -23,7 +23,7 @@
   },
   "require": {
     "typo3/cms-core": ">=7.6|>=8.6",
-    "typo3-ter/jumpurl": ">=7.6|>=8.6"
+    "friendsoftypo3/jumpurl": ">=7.6|>=8.6"
   },
   "autoload": {
     "psr-4": {
